@@ -281,3 +281,8 @@ __что именно и от чего защищает мьютекс?__
 * Отсутствие привычных стандартных функций типа abs, для встроенных типов.
 * гарбэдж коллектор
 * отсутсвие нативного приведения сравнимых типов, например нельзя сравнить int, int64
+
+### Сборщик мусора 
+[Статья](https://habr-com.cdn.ampproject.org/v/s/habr.com/ru/amp/publications/742402/?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%3A%20%251%24s&aoh=16929607652644&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fhabr.com%2Fru%2Farticles%2F742402%2F)
+
+### Каналы [видео](https://youtu.be/Tp5xhTMFuLU?si=uwliYX2-ujDZFqjQ)
